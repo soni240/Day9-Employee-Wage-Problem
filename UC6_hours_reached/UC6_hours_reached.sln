@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC5_calculate_wages_month", "UC5_calculate_wages_month\UC5_calculate_wages_month.csproj", "{0E185E68-4D7F-43B0-BBF4-0CA9345A8A57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC6_hours_reached", "UC6_hours_reached\UC6_hours_reached.csproj", "{9AD2BCA8-073A-4783-8894-96EE00B9037C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E185E68-4D7F-43B0-BBF4-0CA9345A8A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E185E68-4D7F-43B0-BBF4-0CA9345A8A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E185E68-4D7F-43B0-BBF4-0CA9345A8A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E185E68-4D7F-43B0-BBF4-0CA9345A8A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD2BCA8-073A-4783-8894-96EE00B9037C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD2BCA8-073A-4783-8894-96EE00B9037C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD2BCA8-073A-4783-8894-96EE00B9037C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD2BCA8-073A-4783-8894-96EE00B9037C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25BB8336-5EA0-40B2-921F-E2D167F5E978}
+		SolutionGuid = {01A3993A-5F82-4C9C-A625-CB92536868A7}
 	EndGlobalSection
 EndGlobal
