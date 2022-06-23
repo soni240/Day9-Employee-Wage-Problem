@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3_add_parttime_employee", "UC3_add_parttime_employee\UC3_add_parttime_employee.csproj", "{842C1058-3865-4C61-9CF4-36A155C4A0DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC4_using_case_statement", "UC4_using_case_statement\UC4_using_case_statement.csproj", "{B3FF063F-121E-40E3-9882-5D5279D0ED1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{842C1058-3865-4C61-9CF4-36A155C4A0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{842C1058-3865-4C61-9CF4-36A155C4A0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{842C1058-3865-4C61-9CF4-36A155C4A0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{842C1058-3865-4C61-9CF4-36A155C4A0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FF063F-121E-40E3-9882-5D5279D0ED1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FF063F-121E-40E3-9882-5D5279D0ED1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FF063F-121E-40E3-9882-5D5279D0ED1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FF063F-121E-40E3-9882-5D5279D0ED1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F36E11E4-C5AD-4749-905F-4EC1CD25C10A}
+		SolutionGuid = {C2D1FEF0-51DF-4074-9815-43FF5A526228}
 	EndGlobalSection
 EndGlobal
